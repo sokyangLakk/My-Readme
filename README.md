@@ -125,9 +125,8 @@ npm start
 
 ---
 ## 👥 Contributors
-
-![alt text](image-3.png)
-
+- [@sokyangLakk](https://github.com/sokyangLakk)  
+  <img src="https://github.com/sokyangLakk.png" width="60" style="border-radius: 50%;"/>
 
 ---
 ## 📄 License
@@ -136,3 +135,11 @@ All content and materials are © BBC and are protected by copyright laws.
 The resources are provided for personal, non-commercial use only.  
 
 For permissions beyond this, please refer to the official [BBC Terms of Use](https://www.bbc.co.uk/usingthebbc/terms/) or contact the BBC directly.
+ 
+ ```
+
+Let me know:
+- if your project uses Speaking or Writing skill (so I can adjust that part),
+- if you want to include screenshots or setup diagrams,
+- or if you'd like this saved as a downloadable `.md` file.
+```
