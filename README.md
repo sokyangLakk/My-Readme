@@ -124,20 +124,22 @@ npm start
 - Set and review daily learning goals
 
 ---
-## GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sokyangLakk&show_icons=true)](https://github.com/sokyangLakk)
-
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sokyangLakk&layout=compact)](https://github.com/sokyangLakk)
-
----
-
 ## 🙌 Contributors
 
-[@sokyangLakk](https://github.com/sokyangLakk)  
-  <img src="https://github.com/sokyangLakk.png" width="60" style="border-radius: 50%;"/>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sokyangLakk" title="sokyangLakk">
+        <img src="https://github.com/sokyangLakk.png" width="80" style="border-radius:50%" alt="sokyangLakk"/>
+        <br />
+        <sub><b>sokyangLakk</b></sub>
+      </a>
+    </td>
+    <!-- បន្ថែមអ្នកចូលរួមថ្មីនៅទីនេះ -->
+  </tr>
+</table>
+
+
 
 ---
 ## 📄 License
