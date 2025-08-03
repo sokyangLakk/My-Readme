@@ -124,9 +124,21 @@ npm start
 - Set and review daily learning goals
 
 ---
-## 👥 Contributors
+## GitHub Stats
 
-![sokyangLakk](https://contrib.rocks/image?repo=sokyangLakk/My-Readme)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sokyangLakk&show_icons=true)](https://github.com/sokyangLakk)
+
+## Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sokyangLakk&layout=compact)](https://github.com/sokyangLakk)
+
+---
+
+## 🙌 Contributors
+
+[@sokyangLakk](https://github.com/sokyangLakk)  
+  <img src="https://github.com/sokyangLakk.png" width="60" style="border-radius: 50%;"/>
+
 ---
 ## 📄 License
 
