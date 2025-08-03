@@ -125,7 +125,8 @@ npm start
 
 ---
 ## 👥 Contributors
-![@sokyanglakk](https://contrib.rocks/image?repo=sokyangLakk/My-Readme)
+
+![sokyangLakk](https://contrib.rocks/image?repo=sokyangLakk/My-Readme)
 
 ---
 ## 📄 License
