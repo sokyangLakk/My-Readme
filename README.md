@@ -124,20 +124,8 @@ npm start
 - Set and review daily learning goals
 
 ---
-## 🙌 Contributors
+## 👥 Contributors
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/sokyangLakk" title="sokyangLakk">
-        <img src="https://github.com/sokyangLakk.png" width="80" style="border-radius:50%" alt="sokyangLakk"/>
-        <br />
-        <sub><b>sokyangLakk</b></sub>
-      </a>
-    </td>
-    <!-- បន្ថែមអ្នកចូលរួមថ្មីនៅទីនេះ -->
-  </tr>
-</table>
 
 
 
